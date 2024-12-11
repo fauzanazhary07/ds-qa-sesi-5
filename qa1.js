@@ -1,0 +1,1 @@
+// ini si dari qa1.js
