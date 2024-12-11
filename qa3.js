@@ -1,0 +1,1 @@
+//ini isi dari qa3.js
